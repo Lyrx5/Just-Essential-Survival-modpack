@@ -1,8 +1,8 @@
 {
   "game": "minecraft",
   "formatVersion": 1,
-  "versionId": "0.0.1",
-  "name": "Just Essential Survival modpack",
+  "versionId": "0.0.3",
+  "name": "JES",
   "summary": "",
   "files": [
     {
@@ -48,6 +48,17 @@
         "https://cdn.modrinth.com/data/83Rrc2aK/versions/SaIdstbf/Auto_Elytra_F21.10.jar"
       ],
       "fileSize": 115063
+    },
+    {
+      "path": "mods/badpackets-fabric-0.10.2.jar",
+      "hashes": {
+        "sha1": "432c14fff54da478fa43c038ed254323a96ba8ad",
+        "sha512": "c286f9a9ef62729f285cc1a38d6d6912c87bd44d0528052c1b1616c53e010a797f41ba879d34a31e50f085dc2f1086407773dbe3591d754179898d4ed109b811"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/ftdbN0KK/versions/bJjBP5HF/badpackets-fabric-0.10.2.jar"
+      ],
+      "fileSize": 55668
     },
     {
       "path": "mods/balm-fabric-1.21.10-21.10.8.jar",
@@ -512,6 +523,17 @@
       "fileSize": 294187
     },
     {
+      "path": "mods/IAS-9.0.6-alpha.1+1.21.10-fabric.jar",
+      "hashes": {
+        "sha1": "cce3769383a3a54d13455d5386590f08a3a01d8e",
+        "sha512": "aae0a2a4f0639f43f23422a1e4bdfb97acffe3fa2c93f6d515f7e36f700caa22a455abf252dda07a2d0d3a28433b290e012922e5d0bd9b059d6db3f6859d261e"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/cudtvDnd/versions/LgfVj4KS/IAS-9.0.6-alpha.1%2B1.21.10-fabric.jar"
+      ],
+      "fileSize": 315648
+    },
+    {
       "path": "mods/IMBlocker-6.0.1-fabric-1.21.9+.jar",
       "hashes": {
         "sha1": "1b09d98e6dd956a9d24c86f1408cb0b960b55d3d",
@@ -565,17 +587,6 @@
         "https://cdn.modrinth.com/data/YL57xq9U/versions/r1MZ1Bpv/iris-fabric-1.9.6%2Bmc1.21.9.jar"
       ],
       "fileSize": 2708042
-    },
-    {
-      "path": "mods/Jade-1.21.9-Fabric-20.1.0.jar",
-      "hashes": {
-        "sha1": "d1ae69baa96742259036573fd0df35a58f7fd088",
-        "sha512": "17a5bfa8c1884dcf8d5226158a079ebfd7dabd4365f4d8974a165e979c24eb7de5d1f4d8d6a3dd41b17cf7645aa69222dc7904dbaaf40eac8518b7c62a266646"
-      },
-      "downloads": [
-        "https://cdn.modrinth.com/data/nvQzSEkH/versions/nCbsPtPw/Jade-1.21.9-Fabric-20.1.0.jar"
-      ],
-      "fileSize": 928983
     },
     {
       "path": "mods/jei-1.21.10-fabric-26.2.0.27.jar",
@@ -1049,6 +1060,17 @@
         "https://cdn.modrinth.com/data/AhllI99f/versions/jdFh3igV/VisibleTraders-0.1.2.2.jar"
       ],
       "fileSize": 63873
+    },
+    {
+      "path": "mods/wthit-1.21.10-fabric-17.3.3.jar",
+      "hashes": {
+        "sha1": "4a8de7aad5d62469226210f86dae5df48d0b214f",
+        "sha512": "0e08f8d160031aafd1b2d613f7371eeaff8b9b0f513a84a02f0ae4fbbc5d6b3d3e9b040879b564fe23f22e51c94274a22ce63ef0d2d190174a7427f6f91ad875"
+      },
+      "downloads": [
+        "https://cdn.modrinth.com/data/6AQIaxuO/versions/Q68J8JIz/wthit-1.21.10-fabric-17.3.3.jar"
+      ],
+      "fileSize": 866473
     },
     {
       "path": "mods/XaerosWorldMap_1.39.17_Fabric_1.21.9.jar",
