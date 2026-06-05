@@ -1,0 +1,1 @@
+{"main_menu":{"bottom_right":[{"text":"JES modpack 21.10.r0","clickEvent":{"action":"open_url","url":"https://modrinth.com/modpack/jesmodpack"},"hover_event":{"action":"show_text","value":"https://modrinth.com/modpack/jesmodpack"}}]},"pause_menu":{"bottom_right":[{"translate":"isxander-main-menu-credits.fabrishot","fallback":"Take 4K screenshots with F9","color":"dark_gray"}]}}

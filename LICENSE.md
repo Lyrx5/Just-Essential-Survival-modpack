@@ -1,4 +1,4 @@
-Copyright 2025 Just Essential Survival modpack Authors
+Copyright 2025-2026 Just Essential Survival modpack Authors
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
 
